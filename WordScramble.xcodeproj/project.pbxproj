@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC17B3622B2120DF0086CBB5 /* ListArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC17B3612B2120DF0086CBB5 /* ListArray.swift */; };
 		CCCCCD412B1EDCA500270A7E /* WordScrambleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCCCD402B1EDCA500270A7E /* WordScrambleApp.swift */; };
 		CCCCCD432B1EDCA500270A7E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCCCD422B1EDCA500270A7E /* ContentView.swift */; };
 		CCCCCD452B1EDCA600270A7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCCCD442B1EDCA600270A7E /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CC17B3612B2120DF0086CBB5 /* ListArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListArray.swift; sourceTree = "<group>"; };
 		CCCCCD3D2B1EDCA500270A7E /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCCCD402B1EDCA500270A7E /* WordScrambleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleApp.swift; sourceTree = "<group>"; };
 		CCCCCD422B1EDCA500270A7E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				CCCCCD442B1EDCA600270A7E /* Assets.xcassets */,
 				CCCCCD462B1EDCA600270A7E /* Preview Content */,
 				CCCCCD502B1EE68E00270A7E /* Lists.swift */,
+				CC17B3612B2120DF0086CBB5 /* ListArray.swift */,
 			);
 			path = WordScramble;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCCCCD432B1EDCA500270A7E /* ContentView.swift in Sources */,
+				CC17B3622B2120DF0086CBB5 /* ListArray.swift in Sources */,
 				CCCCCD412B1EDCA500270A7E /* WordScrambleApp.swift in Sources */,
 				CCCCCD512B1EE68E00270A7E /* Lists.swift in Sources */,
 			);
