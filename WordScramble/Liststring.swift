@@ -16,7 +16,7 @@ struct Liststring: View {
           func testBundles() {
               if let fileURL = Bundle.main.url(forResource: "somefile", withExtension: "txt"){
                   //MARK: - check for content
-                  if let filecontents = try? String(contentsOf: fileURL){
+                  if (try? String(contentsOf: fileURL)) != nil{
                       //MARK: - read string
                   }
               }else{
