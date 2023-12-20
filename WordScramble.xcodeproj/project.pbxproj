@@ -16,6 +16,7 @@
 		CCCCCD452B1EDCA600270A7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCCCD442B1EDCA600270A7E /* Assets.xcassets */; };
 		CCCCCD482B1EDCA600270A7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCCCD472B1EDCA600270A7E /* Preview Assets.xcassets */; };
 		CCCCCD512B1EE68E00270A7E /* Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCCCD502B1EE68E00270A7E /* Lists.swift */; };
+		CCEFA08D2B33905C008783C7 /* animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCEFA08C2B33905C008783C7 /* animation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		CCCCCD442B1EDCA600270A7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCCCCD472B1EDCA600270A7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CCCCCD502B1EE68E00270A7E /* Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lists.swift; sourceTree = "<group>"; };
+		CCEFA08C2B33905C008783C7 /* animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				CC17B3612B2120DF0086CBB5 /* ListArray.swift */,
 				CC1594C22B27BAA8001A85E9 /* Liststring.swift */,
 				CC16352B2B2E1CAD0088DFF4 /* shinelikeadiamond.swift */,
+				CCEFA08C2B33905C008783C7 /* animation.swift */,
 			);
 			path = WordScramble;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				CC1594C32B27BAA8001A85E9 /* Liststring.swift in Sources */,
 				CC17B3622B2120DF0086CBB5 /* ListArray.swift in Sources */,
 				CC16352C2B2E1CAD0088DFF4 /* shinelikeadiamond.swift in Sources */,
+				CCEFA08D2B33905C008783C7 /* animation.swift in Sources */,
 				CCCCCD412B1EDCA500270A7E /* WordScrambleApp.swift in Sources */,
 				CCCCCD512B1EE68E00270A7E /* Lists.swift in Sources */,
 			);
