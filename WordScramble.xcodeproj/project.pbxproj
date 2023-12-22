@@ -11,6 +11,7 @@
 		CC16352C2B2E1CAD0088DFF4 /* shinelikeadiamond.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC16352B2B2E1CAD0088DFF4 /* shinelikeadiamond.swift */; };
 		CC17B3622B2120DF0086CBB5 /* ListArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC17B3612B2120DF0086CBB5 /* ListArray.swift */; };
 		CC52BFC52B2BB05D003C4249 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = CC52BFC42B2BB05D003C4249 /* start.txt */; };
+		CC701DA72B363C8300CAEEB3 /* animationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC701DA62B363C8300CAEEB3 /* animationStack.swift */; };
 		CCCCCD412B1EDCA500270A7E /* WordScrambleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCCCD402B1EDCA500270A7E /* WordScrambleApp.swift */; };
 		CCCCCD432B1EDCA500270A7E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCCCD422B1EDCA500270A7E /* ContentView.swift */; };
 		CCCCCD452B1EDCA600270A7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCCCD442B1EDCA600270A7E /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 		CC16352B2B2E1CAD0088DFF4 /* shinelikeadiamond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shinelikeadiamond.swift; sourceTree = "<group>"; };
 		CC17B3612B2120DF0086CBB5 /* ListArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListArray.swift; sourceTree = "<group>"; };
 		CC52BFC42B2BB05D003C4249 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		CC701DA62B363C8300CAEEB3 /* animationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animationStack.swift; sourceTree = "<group>"; };
 		CCCCCD3D2B1EDCA500270A7E /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCCCD402B1EDCA500270A7E /* WordScrambleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleApp.swift; sourceTree = "<group>"; };
 		CCCCCD422B1EDCA500270A7E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				CCEFA08C2B33905C008783C7 /* animation.swift */,
 				CCE782802B34E8FA00A728B8 /* AnimatingBindings.swift */,
 				CCE782822B34EB3400A728B8 /* explicitAnimation.swift */,
+				CC701DA62B363C8300CAEEB3 /* animationStack.swift */,
 			);
 			path = WordScramble;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				CCCCCD432B1EDCA500270A7E /* ContentView.swift in Sources */,
 				CC1594C32B27BAA8001A85E9 /* Liststring.swift in Sources */,
 				CC17B3622B2120DF0086CBB5 /* ListArray.swift in Sources */,
+				CC701DA72B363C8300CAEEB3 /* animationStack.swift in Sources */,
 				CC16352C2B2E1CAD0088DFF4 /* shinelikeadiamond.swift in Sources */,
 				CCEFA08D2B33905C008783C7 /* animation.swift in Sources */,
 				CCCCCD412B1EDCA500270A7E /* WordScrambleApp.swift in Sources */,
